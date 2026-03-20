@@ -1,11 +1,11 @@
 # Portfolio-Sales-Performance-Analysis
 Sales Performance Analysis
-**Executive Overview**
+# Executive Overview**
 The business delivered strong profitability with a 41% margin but slightly missed its sales target. Performance is heavily driven by Bikes, highlighting both a strength and a risk due to limited diversification
-**Problem Statement**
+# Problem Statement**
 The main problem was to determine whether the company is meeting its sales targets and whether profitability is sustainable across different product categories.
 Additionally, we wanted to identify if the business is overly dependent on a single product.
-**Dataset from Kaggle**
+# Dataset from Kaggle**
 https://www.kaggle.com/datasets/michaeldsouza16/budget-and-sales-dataset
 This excel dataset consist of six (6) sheet tabs (Budget,Calendar,Customers,Products,Sales and Teritory)
 Imported only four (4) sheet tabs (Budget,Calendar,Product and Sales)
