@@ -26,9 +26,6 @@ Product categories (Bikes, Accessories, Clothing)
    The company generated total sales of 16.47 million against a budget of 16.87 million, resulting in a slight shortfall.
   However, despite this, the business achieved a strong profit of 6.81 million, with a high profit margin of 41.37%, indicating efficient cost management**
 
-# Problem
-  The main problem was to determine whether the company is meeting its sales targets and whether profitability is sustainable across different product  categories.Additionally, we wanted to identify if the business is overly dependent on a single product.
-
 # Action
    To address the main problem, I created a Power BI dashboard analyzing sales, budget, and profit by product category.
    I used KPI cards for summary metrics, a Sales vs Budget chart for performance comparison, and a Profit by Product chart to understand contribution
